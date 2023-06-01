@@ -8,14 +8,23 @@ Pri projektu uporabljamo racunalniski program Mathematica.
 Nacrt projekta:
 
 Pridobila sem podatke z interneta;
+
 Analizirala sem podatke in po potrebi uredila;
+
 •	Gotovina predstavlja več kot 50% vseh plačil na svetu.
+
 •	Gotovina se najpogosteje uporablja za plačila do $24.99.
+
 •	Američani za spletno nakupovanje najpogosteje uporabljajo kartice.
-•	Uporaba gotovine v primerjavi s kreditnimi karticami po starostnih skupinah
+
+•	Uporaba gotovine v primerjavi s kreditnimi karticami po starostnih skupinah.
+
 •	Stroški obdelave plačil
+
 •	Pandemija in mobilna plačila
+
 Napisala svoje mnenje o temi
+
 
 
 
